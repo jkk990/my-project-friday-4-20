@@ -1,0 +1,11 @@
+body  {
+  background-color: white;
+  color: black;
+}
+
+#home  {
+  float: left;
+}
+.quote  {
+  text-align: center;
+}
