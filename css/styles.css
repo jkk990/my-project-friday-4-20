@@ -9,3 +9,21 @@ body  {
 .quote  {
   text-align: center;
 }
+h1  {
+  text-align: center;
+}
+
+#aboutme  {
+  margin-left: auto;
+  padding: inherit;
+}
+
+.welcome  {
+  text-align: center;
+}
+
+.imge  {
+  float: right;
+  height: 50%;
+  width: 50%;
+}
