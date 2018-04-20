@@ -1,29 +1,50 @@
 body  {
   background-color: white;
   color: black;
+  background-image: url("../pic.png");
 }
 
 #home  {
   float: left;
+  color: white;
 }
 .quote  {
   text-align: center;
+  color: black;
 }
 h1  {
   text-align: center;
+  color: black;
 }
 
-#aboutme  {
-  margin-left: auto;
-  padding: inherit;
-}
 
 .welcome  {
   text-align: center;
 }
 
-.imge  {
+.image  {
   float: right;
-  height: 50%;
-  width: 50%;
+  height: 1px;
+  width: 1px;
+}
+#aboutme  {
+  background-color: black;
+  margin-left: 60px;
+  margin-right: 60px;
+  color: white;
+}
+
+#projects  {
+  background-color: red;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: white;
+
+}
+
+#contacts  {
+  background-color: green;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: white;
 }
