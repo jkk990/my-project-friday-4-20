@@ -1,7 +1,9 @@
 body  {
   background-color: white;
   color: black;
-  background-image: url("../pic.png");
+  background-image: url("../flag.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #home  {
@@ -22,10 +24,9 @@ h1  {
   text-align: center;
 }
 
-.image  {
-  float: right;
-  height: 1px;
-  width: 1px;
+img  {
+  height: 413px;
+  /* width: 10px; */
 }
 #aboutme  {
   background-color: black;

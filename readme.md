@@ -1,5 +1,5 @@
 
-# {Application Name}
+# friday1-project
 #### {Brief description of application}, {Date of current version}
 #### By James Karanja
 ## Description
